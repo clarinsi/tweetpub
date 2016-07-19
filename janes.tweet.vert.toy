@@ -1,0 +1,994 @@
+<corpus xml:id="janes.tweet" xml:lang="slv" type="tweet">
+<group id="janes.tweet" type="tweet" title="-" urldomain="twitter.com" url="https://twitter.com/">
+<text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@NovakBozidar	@novakbozidar	@NovakBozidar	Xa	Na
+No	no	no	Q	L
+<g/>
+,	,	,	Z	U
+toliko	toliko	toliko	Rgp	Rsn
+o	o	o	Sl	Dm
+tvojih	tvojih	tvoj	Agpnpl	Ppnsmm
+jajcih	jajcih	jajce	Ncnpl	Sosmm
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Oziroma	oziroma	oziroma	Cc	Vp
+njih	njih	on	Pp3mpg	Zotmmr
+obstoju	obstoju	obstoj	Ncmsd	Somed
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Ciao	ciao	Ciao	Npmsn	Slmei
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392956488261836800" lang="slv" type="post" favorited="0" retweeted="1" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="10:11:42" std_tech="T2" std_ling="L1" senti="neutral">
+<p>
+<s>
+@prenovitelj	@prenovitelj	@prenovitelj	Xa	Na
+Na	na	na	Sa	Dt
+primer	primer	primer	Ncmsan	Sometn
+na	na	na	Sl	Dm
+Žalah	žalah	Žale	Npfpl	Slzmm
+;)	;)	;)	Xe	Ne
+</s>
+</p>
+</text>
+<text id="tid.392956240080691200" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="10:10:43" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@NovakBozidar	@novakbozidar	@NovakBozidar	Xa	Na
+Božo	božo	Božo	Npmsn	Slmei
+<g/>
+,	,	,	Z	U
+če	če	če	Cs	Vd
+bi	bi	biti	Va-c	Gp-g
+se	se	se	Px------y	Zp------k
+rad	rad	rad	Rgp	Rsn
+pričkal	pričkal	pričkati	Vmpp-sm	Ggnd-em
+<g/>
+,	,	,	Z	U
+imej	imej	imeti	Vmpm2s	Ggnvde
+jajca	jajca	jajce	Ncnpa	Sosmt
+in	in	in	Cc	Vp
+me	me	jaz	Pp1-sa--y	Zop-et--k
+povabi	povabi	povabiti	Vmer3s	Ggdste
+na	na	na	Sa	Dt
+kavo	kavo	kava	Ncfsa	Sozet
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+S	s	z	Si	Do
+takimi	takimi	tak	Pd-fpi	Zk-zmo
+tviti	tviti	tviti	Vmen	Ggdn
+diskreditiraš	diskreditiraš	diskreditirati	Vmbr2s	Ggvsde
+sebe	sebe	se	Px---a	Zp---t
+<g/>
+,	,	,	Z	U
+ne	ne	ne	Q	L
+svojo	svojo	svoj	Px-fsa	Zp-zet
+tarčo	tarčo	tarča	Ncfsa	Sozet
+(	(	(	Z	U
+<g/>
+mene	mene	jaz	Pp1-sg	Zop-er
+<g/>
+)	)	)	Z	U
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392942367721791488" lang="slv" type="post" favorited="0" retweeted="3" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="09:15:35" std_tech="T1" std_ling="L1" senti="negative">
+<p>
+<s>
+Strici	strici	stric	Ncmpn	Sommi
+že	že	že	Q	L
+montirajo	montirajo	montirati	Vmbr3p	Ggvstm
+božične	božične	božičen	Agpfpa	Ppnzmt
+lučke	lučke	lučka	Ncfpa	Sozmt
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Triondvajsetega	triondvajsetega	triondvajset	Agpmsg	Ppnmer
+oktobra	oktobra	oktober	Ncmsg	Somer
+<g/>
+?!?	?!?	?	Z	U
+</s>
+<s>
+#wtf	#wtf	#wtf	Xh	Nh
+http://t.co/n2Pd5lrlow	http://t.co/n2pd5lrlow	t.co	Xw	Nw
+</s>
+</p>
+</text>
+<text id="tid.392693329433198592" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="16:46:00" std_tech="T2" std_ling="L3" senti="neutral">
+<p>
+<s>
+@vorancvogel	@vorancvogel	@vorancvogel	Xa	Na
+:D	:d	:D	Xe	Ne
+Neee	Ne	ne	Q	L
+<g/>
+,	,	,	Z	U
+pač	pač	pač	Q	L
+<g/>
+,	,	,	Z	U
+tak	tak	tak	Pd-msn	Zk-mei
+podoben	podoben	podoben	Agpmsnn	Ppnmein
+drajv	drajev	drajev	Ncmsn	Somei
+ima	ima	imeti	Vmpr3s-n	Ggnste-n
+<g/>
+,	,	,	Z	U
+me	me	jaz	Xf	Nj
+thinks	thinks	thinks	Xf	Nj
+:)	:)	:)	Xe	Ne
+</s>
+</p>
+</text>
+<text id="tid.392685189908148224" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="16:13:39" std_tech="T1" std_ling="L1" senti="positive">
+<p>
+<s>
+@vorancvogel	@vorancvogel	@vorancvogel	Xa	Na
+Visoko	visoko	visoko	Rgp	Rsn
+noseča	noseča	noseč	Appfsn	Pdnzei
+na	na	na	Sa	Dt
+maraton	maraton	maraton	Ncmsan	Sometn
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+Da	da	da	Cs	Vd
+ni	ni	biti	Va-r3s-y	Gp-ste-d
+v	v	v	Sl	Dm
+kakšnem	kakšnem	kakšen	Pq-nsl	Zv-sem
+sorodstvu	sorodstvu	sorodstvo	Ncnsl	Sosem
+s	s	z	Si	Do
+precednikom	predsednikom	predsednik	Ncmsi	Someo
+RS	rs	RS	Npfsg	Slzer
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+:)	:)	:)	Xe	Ne
+</s>
+</p>
+</text>
+<text id="tid.392672650382028800" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="15:23:50" std_tech="T1" std_ling="L2" senti="neutral">
+<p>
+<s>
+@ingenuine	@ingenuine	@ingenuine	Xa	Na
+No	no	no	Q	L
+<g/>
+,	,	,	Z	U
+saj	saj	saj	Cc	Vp
+<g/>
+,	,	,	Z	U
+I	i	i	Xf	Nj
+rest	rest	rest	Xf	Nj
+my	my	my	Xf	Nj
+case	case	case	Xf	Nj
+:)	:)	:)	Xe	Ne
+@Delo	@delo	@Delo	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392672431749742592" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="15:22:57" std_tech="T2" std_ling="L2" senti="neutral">
+<p>
+<s>
+@PGantar	@pgantar	@PGantar	Xa	Na
+Prej	prej	prej	Rgc	Rsr
+ali	ali	ali	Cc	Vp
+slej	slej	slej	Rgp	Rsn
+se	se	se	Px------y	Zp------k
+bo	bo	biti	Va-f3s-n	Gp-pte-n
+kdo	kdo	kdo	Pq-msn	Zv-mei
+prefarbal	prefarbal	prefarbal	Ncmsn	Somei
+<g/>
+,	,	,	Z	U
+brez	brez	brez	Sg	Dr
+skrbi	skrbi	skrb	Ncfsg	Sozer
+:)	:)	:)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392664716688236544" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="14:52:18" std_tech="T1" std_ling="L2" senti="neutral">
+<p>
+<s>
+@PGantar	@pgantar	@PGantar	Xa	Na
+Saj	saj	saj	Cc	Vp
+to	to	ta	Pd-nsn	Zk-sei
+je	je	biti	Va-r3s-n	Gp-ste-n
+bila	bila	biti	Va-p-sf	Gp-d-ez
+v	v	v	Sl	Dm
+bistvu	bistvu	bistvo	Ncnsl	Sosem
+poanta	poanta	poanta	Ncfsn	Sozei
+kolega	kolega	kolega	Xf	Nj
+Kajzerce	kajzerce	Kajzerce	Xf	Nj
+@73cesar	@73cesar	@73cesar	Xa	Na
+:))	:))	:))	Xe	Ne
+In	in	in	Cc	Vp
+smo	smo	biti	Va-r1p-n	Gp-spm-n
+na	na	na	Sl	Dm
+začetku	začetku	začetek	Ncmsl	Somem
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@markopigac	@markopigac	@markopigac	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392664349565022208" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="14:50:50" std_tech="T2" std_ling="L2" senti="negative">
+<p>
+<s>
+@ingenuine	@ingenuine	@ingenuine	Xa	Na
+Kot	kot	kot	Cs	Vd
+sem	sem	biti	Va-r1s-n	Gp-spe-n
+danes	danes	danes	Rgp	Rsn
+že	že	že	Q	L
+tvitala	tvitala	tvitala	Ncfsn	Sozei
+<g/>
+:	:	:	Z	U
+poguma	poguma	pogum	Ncmsg	Somer
+za	za	za	Sa	Dt
+s*at	s*at	s*at	Npmsan	Slmetn
+ne	ne	ne	Q	L
+manjka	manjka	manjkati	Vmpr3s	Ggnste
+<g/>
+,	,	,	Z	U
+odgovornosti	odgovornosti	odgovornost	Ncfsg	Sozer
+pa	pa	pa	Cc	Vp
+ne	ne	ne	Q	L
+bi	bi	biti	Va-c	Gp-g
+nihče	nihče	nihče	Pz-msn	Zl-mei
+prevzel	prevzel	prevzeti	Vmep-sm	Ggdd-em
+;)	;)	;)	Xe	Ne
+@Delo	@delo	@Delo	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392655129973121024" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="14:14:12" std_tech="T2" std_ling="L1" senti="neutral">
+<p>
+<s>
+@PGantar	@pgantar	@PGantar	Xa	Na
+Ni	ni	biti	Va-r3s-y	Gp-ste-d
+daleč	daleč	daleč	Rgp	Rsn
+do	do	do	Sg	Dr
+oranžne	oranžne	oranžen	Agpfsg	Ppnzer
+;)	;)	;)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392654894135799808" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="14:13:16" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@ingenuine	@ingenuine	@ingenuine	Xa	Na
+No	no	no	Q	L
+<g/>
+,	,	,	Z	U
+ta	ta	ta	Pd-fsn	Zk-zei
+je	je	biti	Va-r3s-n	Gp-ste-n
+bila	bila	biti	Va-p-sf	Gp-d-ez
+pod	pod	pod	Si	Do
+pasom	pasom	pas	Ncmsi	Someo
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+:)	:)	:)	Xe	Ne
+@Delo	@delo	@Delo	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392643642386825216" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="13:28:33" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@PGantar	@pgantar	@PGantar	Xa	Na
+Je	je	biti	Va-r3s-n	Gp-ste-n
+bil	bil	biti	Va-p-sm	Gp-d-em
+oranžne	oranžne	oranžen	Agpfsg	Ppnzer
+barve	barve	barva	Ncfsg	Sozer
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+:))	:))	:))	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392632234727194624" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:43:14" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Šleva	šleva	šleva	Ncfsn	Sozei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392631862105227264" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:41:45" std_tech="T1" std_ling="L2" senti="positive">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Hvala	hvala	Hvala	Xf	Nj
+followerjem	followerjem	followerjem	Xf	Nj
+<g/>
+,	,	,	Z	U
+itak	itak	itak	Q	L
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+Ti	ti	ta	Pd-mpn	Zk-mmi
+si	si	se	Px---d--y	Zp---d--k
+kolaterala	kolaterala	kolaterala	Xf	Nj
+;)	;)	;)	Xe	Ne
+</s>
+</p>
+</text>
+<text id="tid.392631301922361344" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:39:31" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+Morda	morda	morda	Q	L
+bi	bi	biti	Va-c	Gp-g
+morali	morali	morati	Vmpp-pm	Ggnd-mm
+v	v	v	Sa	Dt
+politiko	politiko	politika	Ncfsa	Sozet
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+#neodgovornost	#neodgovornost	#neodgovornost	Xh	Nh
+(	(	(	Z	U
+<g/>
+@PGantar	@pgantar	@PGantar	Xa	Na
+izvzet	izvzet	izvzet	Appmsnn	Pdnmein
+<g/>
+)	)	)	Z	U
+</s>
+</p>
+</text>
+<text id="tid.392630994077233152" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:38:18" std_tech="T2" std_ling="L2" senti="negative">
+<p>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+Klasika	klasika	klasika	Ncfsn	Sozei
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+Ko	ko	ko	Cs	Vd
+je	je	biti	Va-r3s-n	Gp-ste-n
+treba	treba	treba	Rgp	Rsn
+s*at	s*at	s*at	Ncmsn	Somei
+<g/>
+,	,	,	Z	U
+imamo	imamo	imeti	Vmpr1p-n	Ggnspm-n
+jajca	jajca	jajce	Ncnsg	Soser
+<g/>
+,	,	,	Z	U
+ko	ko	ko	Cs	Vd
+je	je	biti	Va-r3s-n	Gp-ste-n
+treba	treba	treba	Rgp	Rsn
+odgovarjat	odgovarjat	odgovarjati	Vmpu	Ggnm
+za	za	za	Sa	Dt
+s*anje	s*anje	s*anje	Ncnsa	Soset
+<g/>
+,	,	,	Z	U
+pa	pa	pa	Cc	Vp
+tlačimo	tlačimo	tlačiti	Vmpr1p	Ggnspm
+rep	rep	rep	Ncmsan	Sometn
+med	med	med	Sa	Dt
+noge	noge	noga	Ncfpa	Sozmt
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392630250896908288" lang="slv" type="post" favorited="0" retweeted="1" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:35:21" std_tech="T2" std_ling="L2" senti="positive">
+<p>
+<s>
+Kdor	kdor	kdor	Pr-msn	Zz-mei
+se	se	se	Px------y	Zp------k
+prička	prička	pričkati	Vmpr3s	Ggnste
+s	s	z	Si	Do
+po	po	po	Sl	Dm
+novem	novem	nov	Agpnsl	Ppnsem
+bojda	bojda	bojda	Q	L
+neužitno	neužitno	neužitno	Rgp	Rsn
+Kajzerco	kajzerco	Kajzerco	Npmsn	Slmei
+(	(	(	Z	U
+<g/>
+@73cesar	@73cesar	@73cesar	Xa	Na
+)	)	)	Z	U
+<g/>
+,	,	,	Z	U
+dobi	dobi	dobiti	Vmer3s	Ggdste
+nove	nove	nov	Agpfsg	Ppnzer
+followerje	followerje	followerja	Ncfsg	Sozer
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Hvala	hvala	hvala	Ncfsn	Sozei
+<g/>
+!!	!!	!	Z	U
+</s>
+</p>
+</text>
+<text id="tid.392629512888143872" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:32:25" std_tech="T1" std_ling="L2" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+<g/>
+,	,	,	Z	U
+da	da	da	Cs	Vd
+te	te	ti	Pp2-sa--y	Zod-et--k
+takole	takole	takole	Rgp	Rsn
+izzovem	izzovem	izzvati	Vmer1s	Ggdspe
+(	(	(	Z	U
+<g/>
+tm	tm	tm	Ncmsn	Somei
+U.	u.	u.	Y	O
+<g/>
+Slak	slak	Slak	Npmsn	Slmei
+<g/>
+)	)	)	Z	U
+<g/>
+:	:	:	Z	U
+@PGantar	@pgantar	@PGantar	Xa	Na
+te	te	ta	Xf	Nj
+je	je	biti	Va-r3s-n	Gp-ste-n
+vprašal	vprašal	vprašati	Vmep-sm	Ggdd-em
+o	o	o	Sl	Dm
+Kanglerju	kanglerju	Kangler	Npmsl	Slmem
+in	in	in	Cc	Vp
+oranžni	oranžni	oranžen	Agpfsl	Ppnzem
+barvi	barvi	barva	Ncfsl	Sozem
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+In	in	in	Cc	Vp
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+@markopigac	@markopigac	@markopigac	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392628971768393728" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:30:16" std_tech="T2" std_ling="L2" senti="neutral">
+<p>
+<s>
+@markopigac	@markopigac	@markopigac	Xa	Na
+Pigac	Pic	Pic	Npmsn	Slmei
+<g/>
+,	,	,	Z	U
+moj	moj	moj	Ps1msns	Zspmeie
+priimek	priimek	priimek	Ncmsn	Somei
+ima	ima	imeti	Vmpr3s-n	Ggnste-n
+toliko	toliko	toliko	Rgp	Rsn
+veze	veze	veza	Ncfsg	Sozer
+z	z	z	Si	Do
+mojim	mojim	moj	Px-nsi	Zp-seo
+delovnim	delovnim	deloven	Agpnsi	Ppnseo
+mestom	mestom	mesto	Ncnsi	Soseo
+kot	kot	kot	Cs	Vd
+ima	ima	imeti	Vmpr3s-n	Ggnste-n
+moje	moje	moj	Ps1nsns	Zspseie
+delovno	delovno	deloven	Agpnsn	Ppnsei
+mesto	mesto	mesto	Ncnsn	Sosei
+z	z	z	Si	Do
+mojim	mojim	moj	Agpmsi	Ppnmeo
+priimkom	priimkom	priimek	Ncmsi	Someo
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392628175853076480" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="12:27:06" std_tech="T1" std_ling="L2" senti="neutral">
+<p>
+<s>
+@Delo	@delo	@Delo	Xa	Na
+Ok	ok	ok	Rgp	Rsn
+<g/>
+,	,	,	Z	U
+dajmo	dajmo	dati	Vmem1p	Ggdvpm
+zdaj	zdaj	zdaj	Rgp	Rsn
+to	to	ta	Pd-nsa	Zk-set
+razčistiti	razčistiti	razčistiti	Vmen	Ggdn
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Nihče	nihče	nihče	Pz-msn	Zl-mei
+me	me	jaz	Pp1-sa--y	Zop-et--k
+ni	ni	biti	Va-r3s-y	Gp-ste-d
+dregnil	dregnil	dregniti	Vmep-sm	Ggdd-em
+<g/>
+,	,	,	Z	U
+še	še	še	Q	L
+najmanj	najmanj	najmanj	Rgs	Rss
+pa	pa	pa	Cc	Vp
+Pigac	Pic	Pic	Npmsn	Slmei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Jasno	jasno	jasno	Rgp	Rsn
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+:)	:)	:)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@markopigac	@markopigac	@markopigac	Xa	Na
+@PGantar	@pgantar	@PGantar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392607580885094400" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="11:05:16" std_tech="T2" std_ling="L2" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Recimo	recimo	reči	Vmem1p	Ggdvpm
+v	v	v	Sl	Dm
+bičfest	bičfest	bičfest	Xf	Nj
+;)	;)	;)	Xe	Ne
+@PGantar	@pgantar	@PGantar	Xa	Na
+@Delo_Ozadja	@delo_ozadja	@Delo_Ozadja	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392607284037419008" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="11:04:05" std_tech="T1" std_ling="L1" senti="negative">
+<p>
+<s>
+@MarioBelovi	@mariobelovi	@MarioBelovi	Xa	Na
+Točno	točno	točno	Rgp	Rsn
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Da	da	da	Cs	Vd
+nisi	nisi	biti	Va-r2s-y	Gp-sde-d
+v	v	v	Sa	Dt
+moko	moko	moka	Ncfsa	Sozet
+vmešal	vmešal	vmešati	Vmep-sm	Ggdd-em
+mišje	mišje	mišji	Agpfpa	Ppnzmt
+dlake	dlake	dlaka	Ncfpa	Sozmt
+in	in	in	Cc	Vp
+kakce	kakce	kakec	Ncmpa	Sommt
+<g/>
+?!	?!	?	Z	U
+</s>
+<s>
+@PGantar	@pgantar	@PGantar	Xa	Na
+@Delo_Ozadja	@delo_ozadja	@Delo_Ozadja	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392606927550951424" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="11:02:40" std_tech="T1" std_ling="L1" senti="positive">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Ni	ni	biti	Va-r3s-y	Gp-ste-d
+za	za	za	Sa	Dt
+kaj	kaj	kaj	Pq-nsa	Zv-set
+<g/>
+,	,	,	Z	U
+kolega	kolega	kolega	Ncmsn	Somei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Z	z	z	Si	Do
+veseljem	veseljem	veselje	Ncnsi	Soseo
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+Včasih	včasih	včasih	Rgp	Rsn
+je	je	biti	Va-r3s-n	Gp-ste-n
+treba	treba	treba	Rgp	Rsn
+skloniti	skloniti	skloniti	Vmen	Ggdn
+glavo	glavo	glava	Ncfsa	Sozet
+<g/>
+,	,	,	Z	U
+saj	saj	saj	Cc	Vp
+veš	veš	vedeti	Vmpr2s	Ggnsde
+;)	;)	;)	Xe	Ne
+@PGantar	@pgantar	@PGantar	Xa	Na
+@Delo_Ozadja	@delo_ozadja	@Delo_Ozadja	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392598046456184832" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="10:27:23" std_tech="T2" std_ling="L2" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Kolega	kolega	kolega	Ncmsn	Somei
+<g/>
+,	,	,	Z	U
+sem	sem	biti	Va-r1s-n	Gp-spe-n
+že	že	že	Q	L
+včeraj	včeraj	včeraj	Rgp	Rsn
+napisala	napisala	napisati	Vmep-sf	Ggdd-ez
+<g/>
+,	,	,	Z	U
+da	da	da	Cs	Vd
+so	so	biti	Va-r3p-n	Gp-stm-n
+Kajzerce	kajzerce	Kajzerca	Npfpn	Slzmi
+primerek	primerek	primerek	Ncmsn	Somei
+shizofantastičnega	shizofantastičnega	shizofantastičneg	Ncmsg	Somer
+<g/>
+,	,	,	Z	U
+ki	ki	ki	Cs	Vd
+hoče	hoče	hoteti	Vmpr3s-n	Ggnste-n
+biti	biti	biti	Va-n	Gp-n
+humorno	humorno	humorno	Rgp	Rsn
+;)	;)	;)	Xe	Ne
+@PGantar	@pgantar	@PGantar	Xa	Na
+@Delo_Ozadja	@delo_ozadja	@Delo_Ozadja	Xa	Na
+@Delo	@delo	@Delo	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392579565039927297" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="09:13:56" std_tech="T1" std_ling="L2" senti="negative">
+<p>
+<s>
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+Zagrekajnost	zagrekajnost	Zagrekajnost	Npfsn	Slzei
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+Dokler	dokler	dokler	Cs	Vd
+se	se	se	Px------y	Zp------k
+morate	morate	morati	Vmpr2p	Ggnsdm
+dobesedno	dobesedno	dobesedno	Rgp	Rsn
+štempljati	štempljati	štempljati	Vmpn	Ggnn
+<g/>
+,	,	,	Z	U
+ko	ko	ko	Cs	Vd
+pridete	pridete	priti	Vmer2p	Ggdsdm
+v	v	v	Sa	Dt
+službo	službo	služba	Ncfsa	Sozet
+<g/>
+,	,	,	Z	U
+je	je	biti	Va-r3s-n	Gp-ste-n
+ni	ni	biti	Va-r3s-y	Gp-ste-d
+<g/>
+,	,	,	Z	U
+majkemi	majkemi	majkemi	Xf	Nj
+:))	:))	:))	Xe	Ne
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392579238693715968" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="09:12:38" std_tech="T2" std_ling="L1" senti="neutral">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+To	to	ta	Pd-nsa	Zk-set
+prepuščam	prepuščam	prepuščati	Vmpr1s	Ggnspe
+kolegu	kolegu	kolega	Ncmsd	Somed
+iz	iz	iz	Sg	Dr
+javnega	javnega	javen	Agpmsg	Ppnmer
+sektorja	sektorja	sektor	Ncmsg	Somer
+:)	:)	:)	Xe	Ne
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+@SirWilliamsPub	@sirwilliamspub	@SirWilliamsPub	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392577191957250048" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="09:04:30" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+Baje	baje	baje	Q	L
+obstaja	obstaja	obstajati	Vmpr3s	Ggnste
+tudi	tudi	tudi	Q	L
+podkategorija	podkategorija	podkategorija	Ncfsn	Sozei
+<g/>
+:	:	:	Z	U
+učinkovitost	učinkovitost	učinkovitost	Ncfsn	Sozei
+javnega	javnega	javen	Agpmsg	Ppnmer
+sektorja	sektorja	sektor	Ncmsg	Somer
+:)	:)	:)	Xe	Ne
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@SirWilliamsPub	@sirwilliamspub	@SirWilliamsPub	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392576994711703552" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="09:03:43" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+Boš	boš	Boš	Npfsn	Slzei
+brala	brala	brati	Vmpp-sf	Ggnd-ez
+<g/>
+,	,	,	Z	U
+ko	ko	ko	Cs	Vd
+bo	bo	biti	Va-f3s-n	Gp-pte-n
+kaj	kaj	kaj	Pq-nsn	Zv-sei
+za	za	za	Sa	Dt
+povedat	povedat	povedati	Xf	Nj
+:)	:)	:)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392570719777087488" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:38:47" std_tech="T1" std_ling="L1" senti="positive">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+O	o	o	Ncmsn	Somei
+<g/>
+,	,	,	Z	U
+hvala	hvala	hvala	Ncfsn	Sozei
+<g/>
+,	,	,	Z	U
+kolega	kolega	kolega	Ncmsn	Somei
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392568524478357504" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:30:04" std_tech="T2" std_ling="L1" senti="positive">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+A	a	a	Ncmsn	Somei
+je	je	biti	Va-r3s-n	Gp-ste-n
+prejle	prejle	prejle	Rgp	Rsn
+lepo	lepo	lepo	Rgp	Rsn
+priznal	priznal	priznati	Vmep-sm	Ggdd-em
+-	-	-	Z	U
+javno	javno	javno	Rgp	Rsn
+sektor	sektor	sektor	Ncmsn	Somei
+<g/>
+!!	!!	!	Z	U
+</s>
+<s>
+;)	;)	;)	Xe	Ne
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+@SirWilliamsPub	@sirwilliamspub	@SirWilliamsPub	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392568341338288128" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:29:20" std_tech="T2" std_ling="L1" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Ick	ick	Ick	Npmsn	Slmei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392568262300794880" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:29:01" std_tech="T1" std_ling="L2" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Gozdni	gozdni	gozden	Agpmsny	Ppnmeid
+houdre	houre	houre	Ncmsn	Somei
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392567508601171968" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:26:02" std_tech="T1" std_ling="L3" senti="positive">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+Ja	ja	ja	Q	L
+<g/>
+,	,	,	Z	U
+sea	sea	sea	Ncfsn	Sozei
+<g/>
+,	,	,	Z	U
+zanj	zanj	zame	Pp3msa--b	Zotmet--z
+<g/>
+!	!	!	Z	U
+</s>
+<s>
+Valda	Valjda	valjda	Q	L
+ne	ne	ne	Q	L
+bom	bom	biti	Va-f1s-n	Gp-ppe-n
+teb	teb	Tebe	Agpmpa	Ppnmmt
+srčke	srčke	srček	Ncmpa	Sommt
+pošiljala	pošiljala	pošiljati	Vmpp-sf	Ggnd-ez
+<g/>
+!!	!!	!	Z	U
+</s>
+<s>
+:)	:)	:)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392567102194081792" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:24:25" std_tech="T1" std_ling="L1" senti="positive">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+&lt;3	&lt;3	&lt;3	Xe	Ne
+A	a	a	Xf	Nj
+tko	tko	tkati	Xf	Nj
+ti	ti	ti	Pp2-sd--y	Zod-ed--k
+je	je	biti	Va-r3s-n	Gp-ste-n
+lepše	lepše	lepo	Rgc	Rsr
+<g/>
+,	,	,	Z	U
+Sovdatova	sovdatova	Sovdatov	Aspfsn	Psnzei
+<g/>
+?	?	?	Z	U
+</s>
+<s>
+:)	:)	:)	Xe	Ne
+@73cesar	@73cesar	@73cesar	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392566775344545792" lang="slv" type="post" favorited="1" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:23:07" std_tech="T1" std_ling="L1" senti="neutral">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Bogi	bogi	bog	Agpmsny	Ppnmeid
+<g/>
+,	,	,	Z	U
+če	če	če	Cs	Vd
+bi	bi	biti	Va-c	Gp-g
+bil	bil	biti	Va-p-sm	Gp-d-em
+ženska	ženska	ženska	Ncfsn	Sozei
+<g/>
+,	,	,	Z	U
+bi	bi	biti	Va-c	Gp-g
+ti	ti	ti	Pp2-sd--y	Zod-ed--k
+bilo	bilo	biti	Va-p-sn	Gp-d-es
+vse	vse	ves	Pg-nsn	Zc-sei
+jasno	jasno	jasen	Agpnsn	Ppnsei
+#multitasking	#multitasking	#multitasking	Xh	Nh
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+</s>
+</p>
+</text>
+<text id="tid.392566210061414400" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:20:52" std_tech="T1" std_ling="L2" senti="negative">
+<p>
+<s>
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+@73cesar	@73cesar	@73cesar	Xa	Na
+Nehte	Nehajte	nehati	Vmem2p	Ggdvdm
+se	se	se	Px------y	Zp------k
+ravsat	ravsat	ravsati	Vmpu	Ggnm
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Drugo	drugo	drug	Mlpnsa	Kbzset
+leto	leto	leto	Ncnsa	Soset
+nas	nas	jaz	Pp1-pa	Zop-mt
+trojka	trojka	trojka	Ncfsn	Sozei
+vse	vse	ves	Pg-nsa	Zc-set
+skupaj	skupaj	skupaj	Rgp	Rsn
+pelje	pelje	peljati	Vmpr3s	Ggnste
+v	v	v	Sa	Dt
+kolonijo	kolonijo	kolonija	Ncfsa	Sozet
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Na	na	na	Sa	Dt
+Debeli	debeli	debel	Agpmsay	Ppnmetd
+rtič	rtič	rtič	Ncmsan	Sometn
+<g/>
+.	.	.	Z	U
+</s>
+</p>
+</text>
+<text id="tid.392565941227491328" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-22" time="08:19:48" std_tech="T1" std_ling="L2" senti="negative">
+<p>
+<s>
+@73cesar	@73cesar	@73cesar	Xa	Na
+Oh	oh	oh	I	M
+<g/>
+,	,	,	Z	U
+prizadel	prizadel	prizadeti	Vmep-sm	Ggdd-em
+si	si	biti	Va-r2s-n	Gp-sde-n
+me	me	jaz	Pp1-sa--y	Zop-et--k
+<g/>
+,	,	,	Z	U
+gozdni	gozdni	gozden	Agpmsny	Ppnmeid
+houdre	houre	houre	Ncmsn	Somei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+Zdaj	zdaj	zdaj	Rgp	Rsn
+bom	bom	biti	Va-f1s-n	Gp-ppe-n
+surlila	surlila	surlila	Ncfsn	Sozei
+<g/>
+.	.	.	Z	U
+</s>
+<s>
+@t_celestina	@t_celestina	@t_celestina	Xa	Na
+@petrasovdat	@petrasovdat	@petrasovdat	Xa	Na
+</s>
+</p>
+</text>
+</group>
+</corpus>
