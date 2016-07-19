@@ -1,5 +1,4 @@
-# tweetpub
-A tool for preparing annotated collections of tweets for publishing
+# TweetPub
 
 TweetPub is a tool for preparation of Twitter data annotated on token level for publishing, given the restrictions of the Twitter Terms of Service. The tool consists of two scripts, one for encoding, the other for decoding.
 
@@ -17,7 +16,7 @@ lic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23"
 std_tech="T1" std_ling="L1" senti="neutral">
 <p>
 <s>
-@rantman   @rantman   @rantman   Xa      Na      1-13
+@NovakBozidar   @novakbozidar   @NovakBozidar   Xa      Na      1-13
 No      no      no      Q       L       15-16
 <g/>
 ,       ,       ,       Z       U       17-17
@@ -50,7 +49,7 @@ $ python encode_tweetpub.py --ncol 6 --tokencol 1 --to_encode 2 3 < temp
 <text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" senti="neutral">
 <p>
 <s>
-TOKEN   (0, u'', 0, u'') (0, u'', 0, u'')        Xa      Na      1-13
+TOKEN   (1, u'N', 7, u'Bozidar') (0, u'', 0, u'')        Xa      Na      1-13
 TOKEN   (1, u'n', 0, u'')       (1, u'n', 0, u'')       Q       L       15-16
 <g/>
 TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Z       U       17-17
@@ -92,7 +91,7 @@ lic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23"
 std_tech="T1" std_ling="L1" senti="neutral">
 <p>
 <s>
-@rantman   @rantman   @rantman   Xa      Na      1-13
+@NovakBozidar   @novakbozidar   @NovakBozidar   Xa      Na      1-13
 No      no      no      Q       L       15-16
 <g/>
 ,       ,       ,       Z       U       17-17
