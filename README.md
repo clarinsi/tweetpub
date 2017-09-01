@@ -11,29 +11,40 @@ For encoding your Twitter corpus (annotated on token level) you should have your
 An example of an annotated tweet in a viable format is this:
 
 ```
-<text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_de
-lic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" 
-std_tech="T1" std_ling="L1" senti="neutral">
+<text id="tid.392972411765018626" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" sentiment="neutral">
 <p>
 <s>
-@NovakBozidar   @novakbozidar   @NovakBozidar   Xa      Na      1-13
-No      no      no      Q       L       15-16
+<name type="per">
+@NovakBozidar	@NovakBozidar	@NovakBozidar-n	Xa	Na	=	1-13
+</name>
+No	No	no-l	Q	L	=	15-16
 <g/>
-,       ,       ,       Z       U       17-17
-toliko  toliko  toliko  Rgp     Rsn     19-24
-o       o       o       Sl      Dm      26-26
-tvojih  tvojih  tvoj    Agpnpl  Ppnsmm  28-33
-jajcih  jajcih  jajce   Ncnpl   Sosmm   35-40
+,	,	,-u	Z	U	=	17-17
+toliko	toliko	toliko-r	Rgp	Rsn	=	19-24
+o	o	o-d	Sl	Dm	=	26-26
+tvojih	tvojih	tvoj-z	Ps2mpls	Zsdmmme	=	28-33
+jajcih	jajcih	jajce-s	Ncnpl	Sosmm	=	35-40
 <g/>
-.       .       .       Z       U       41-41
+.	.	.-u	Z	U	=	41-41
 </s>
 <s>
-Oziroma oziroma oziroma Cc      Vp      43-49
-njih    njih    on      Pp3mpg  Zotmmr  51-54
-obstoju obstoju obstoj  Ncmsd   Somed   56-62
+Oziroma	Oziroma	oziroma-v	Cc	Vp	=	43-49
+njih	njih	on-z	Pp3mpa	Zotmmt	=	51-54
+obstoju	obstoju	obstoj-s	Ncmsd	Somed	=	56-62
 <g/>
-.       .       .       Z       U       63-63
+.	.	.-u	Z	U	=	63-63
 </s>
+<s>
+Ciao	Ciao	Ciao-m	I	M	=	65-68
+<g/>
+!	!	!-u	Z	U	=	69-69
+</s>
+<s>
+<name type="per">
+@Delo	@Delo	@Delo-n	Xa	Na	=	71-75
+</name>
+</s>
+</p>
 </text>
 ```
 
@@ -44,33 +55,46 @@ The encoding tool accepts a series of command line arguments: (1) (--ncol) the n
 An example run of the encoder, if the above data is stored in ```temp```, is this:
 
 ```
-$ python encode_tweetpub.py --ncol 6 --tokencol 1 --to_encode 2 3 < temp
+$ python encode_tweetpub.py --ncol 7 --tokencol 1 --to_encode 2 3 < janes.tweet.vert.toy
 
-<text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_delic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" senti="neutral">
+<text id="tid.392972411765018626" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" sentiment="neutral">
 <p>
 <s>
-TOKEN   (1, u'N', 7, u'Bozidar') (0, u'', 0, u'')        Xa      Na      1-13
-TOKEN   (1, u'n', 0, u'')       (1, u'n', 0, u'')       Q       L       15-16
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-13
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-l')	Q	L	=	15-16
 <g/>
-TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Z       U       17-17
-TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Rgp     Rsn     19-24
-TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Sl      Dm      26-26
-TOKEN   (0, u'', 0, u'')        (0, u'', 2, u'')        Agpnpl  Ppnsmm  28-33
-TOKEN   (0, u'', 0, u'')        (0, u'', 2, u'e')       Ncnpl   Sosmm   35-40
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	17-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	19-24
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	26-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-z')	Ps2mpls	Zsdmmme	=	28-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'e-s')	Ncnpl	Sosmm	=	35-40
 <g/>
-TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Z       U       41-41
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	41-41
 </s>
 <s>
-TOKEN   (1, u'o', 0, u'')       (1, u'o', 0, u'')       Cc      Vp      43-49
-TOKEN   (0, u'', 0, u'')        (0, u'o', 3, u'')       Pp3mpg  Zotmmr  51-54
-TOKEN   (0, u'', 0, u'')        (0, u'', 1, u'')        Ncmsd   Somed   56-62
+TOKEN	(0, u'', 0, u'')	(1, u'o', 0, u'-v')	Cc	Vp	=	43-49
+TOKEN	(0, u'', 0, u'')	(0, u'o', 3, u'-z')	Pp3mpa	Zotmmt	=	51-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncmsd	Somed	=	56-62
 <g/>
-TOKEN   (0, u'', 0, u'')        (0, u'', 0, u'')        Z       U       63-63
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	63-63
 </s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-m')	I	M	=	65-68
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	69-69
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	71-75
+</name>
+</s>
+</p>
 </text>
 ```
 
-As you can see from the output, the token values are replaced with a dummy ```TOKEN``` value while the values to be encoded are encoded in 4-tuples relative to the token value: ```(length_of_prefix,new_prefix,length_of_suffix,new_suffix)```. By applying the given rule on the token value, the value of the specific attribute is reconstructed. For instance, for the token ```jajcih``` the rule of the second encoded attribute is the following: ```(0, u'', 2, u'e')```. By removing two characters from the end of the string, and adding the new suffix, we are obtaining ```jajce```.
+As you can see from the output, the token values are replaced with a dummy ```TOKEN``` value while the values to be encoded are encoded in 4-tuples relative to the token value: ```(length_of_prefix,new_prefix,length_of_suffix,new_suffix)```. By applying the given rule on the token value, the value of the specific attribute is reconstructed. For instance, for the token ```jajcih``` the rule of the second encoded attribute is the following: ```(0, u'', 2, u'e-s')```. By removing two characters from the end of the string, and adding the new suffix, we are obtaining ```jajce-s```.
 
 # Decoding
 
@@ -82,10 +106,10 @@ In the case of our encoding example, the start of a tweet is defined as ```r'^<t
 
 The command line interface is similar to the one of the encoding script with the following arguments: (1) (--ncol) the number of attributes in each token-encoding line (2) (--tokencol) the number of the column in which the original token should be encoded (3) (--offsetcol) the number of the column in which the position of the token in the original tweet is encoded and (4) (--to_decode) a list of column numbers that have to be decoded given the token.
 
-An example run of the decoder, if the encoded data is stored in ```temp2```, is this:
+An example run of the decoder, if the encoded data is stored in ```janes.tweet.vert.toy.enc```, is this (the output can be found in ```janes.tweet.vert.toy.enc.dec```):
 
 ```
-$ python decode_tweetpub.py --ncol 6 --tokencol 1 --offsetcol 6 --to_decode 2 3 < temp2
+$ python decode_tweetpub.py --ncol 7 --tokencol 1 --offsetcol 7 --to_decode 2 3 < janes.tweet.vert.toy.enc
 <text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_de
 lic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" 
 std_tech="T1" std_ling="L1" senti="neutral">
@@ -112,4 +136,4 @@ obstoju obstoju obstoj  Ncmsd   Somed   56-62
 </text>
 ```
 
-You should have patience during decoding as the Twitter API allows fetching 100 tweets every 15 seconds. The decoder has this time constraint hard-coded.
+You should have patience during decoding as the Twitter API allows fetching 100 tweets every 15 seconds.
