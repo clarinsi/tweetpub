@@ -110,29 +110,40 @@ An example run of the decoder, if the encoded data is stored in ```janes.tweet.v
 
 ```
 $ python decode_tweetpub.py --ncol 7 --tokencol 1 --offsetcol 7 --to_decode 2 3 < janes.tweet.vert.toy.enc
-<text id="tid.392972411765018626" lang="slv" type="post" favorited="0" retweeted="0" user="007_de
-lic" sex="female" source="private" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" 
-std_tech="T1" std_ling="L1" senti="neutral">
+<text id="tid.392972411765018626" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" sentiment="neutral">
 <p>
 <s>
-@NovakBozidar   @novakbozidar   @NovakBozidar   Xa      Na      1-13
-No      no      no      Q       L       15-16
+<name type="per">
+@NovakBozidar	@NovakBozidar	@NovakBozidar-n	Xa	Na	=	1-13
+</name>
+No	No	no-l	Q	L	=	15-16
 <g/>
-,       ,       ,       Z       U       17-17
-toliko  toliko  toliko  Rgp     Rsn     19-24
-o       o       o       Sl      Dm      26-26
-tvojih  tvojih  tvoj    Agpnpl  Ppnsmm  28-33
-jajcih  jajcih  jajce   Ncnpl   Sosmm   35-40
+,	,	,-u	Z	U	=	17-17
+toliko	toliko	toliko-r	Rgp	Rsn	=	19-24
+o	o	o-d	Sl	Dm	=	26-26
+tvojih	tvojih	tvoj-z	Ps2mpls	Zsdmmme	=	28-33
+jajcih	jajcih	jajce-s	Ncnpl	Sosmm	=	35-40
 <g/>
-.       .       .       Z       U       41-41
+.	.	.-u	Z	U	=	41-41
 </s>
 <s>
-Oziroma oziroma oziroma Cc      Vp      43-49
-njih    njih    on      Pp3mpg  Zotmmr  51-54
-obstoju obstoju obstoj  Ncmsd   Somed   56-62
+Oziroma	Oziroma	oziroma-v	Cc	Vp	=	43-49
+njih	njih	on-z	Pp3mpa	Zotmmt	=	51-54
+obstoju	obstoju	obstoj-s	Ncmsd	Somed	=	56-62
 <g/>
-.       .       .       Z       U       63-63
+.	.	.-u	Z	U	=	63-63
 </s>
+<s>
+Ciao	Ciao	Ciao-m	I	M	=	65-68
+<g/>
+!	!	!-u	Z	U	=	69-69
+</s>
+<s>
+<name type="per">
+@Delo	@Delo	@Delo-n	Xa	Na	=	71-75
+</name>
+</s>
+</p>
 </text>
 ```
 
