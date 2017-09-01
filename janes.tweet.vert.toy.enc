@@ -1,0 +1,1022 @@
+<text id="tid.392972411765018626" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="11:14:58" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-13
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-l')	Q	L	=	15-16
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	17-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	19-24
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	26-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-z')	Ps2mpls	Zsdmmme	=	28-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'e-s')	Ncnpl	Sosmm	=	35-40
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	41-41
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'o', 0, u'-v')	Cc	Vp	=	43-49
+TOKEN	(0, u'', 0, u'')	(0, u'o', 3, u'-z')	Pp3mpa	Zotmmt	=	51-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncmsd	Somed	=	56-62
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	63-63
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-m')	I	M	=	65-68
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	69-69
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	71-75
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392956488261836800" type="tweet" lang="slv" favorited="0" retweeted="1" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="10:11:42" std_tech="T2" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-d')	Sa	Dt	=	14-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsan	Sometn	=	17-22
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	24-25
+<name type="loc">
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'e-s')	Npfpl	Slzmm	=	27-31
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	33-34
+</s>
+</p>
+</text>
+<text id="tid.392956240080691200" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="10:10:43" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-13
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	15-18
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	19-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	21-22
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Va-c	Gp-g	=	24-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Px------y	Zp------k	=	27-28
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	30-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmpp-sm	Ggnd-em	=	34-40
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	41-41
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmpm2s	Ggnvde	=	43-46
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'e-s')	Ncnpa	Sosmt	=	48-52
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	54-55
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'jaz-z')	Pp1-sa--y	Zop-et--k	=	57-58
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Vmer3s	Ggdste	=	60-65
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	67-68
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	70-73
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	74-74
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'z-d')	Si	Do	=	76-76
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'-z')	Pd-fpi	Zk-zmo	=	78-83
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-g')	Vmen	Ggdn	=	85-89
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmbr2s	Ggvsde	=	91-103
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-z')	Px---a	Zp---t	=	105-108
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	109-109
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	111-112
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-z')	Px-fsa	Zp-zet	=	114-118
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	120-124
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	126-126
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 4, u'jaz-z')	Pp1-sg	Zop-er	=	127-130
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	131-131
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	132-132
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	134-138
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392942367721791488" type="tweet" lang="slv" favorited="0" retweeted="3" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-23" time="09:15:35" std_tech="T1" std_ling="L1" sentiment="negative">
+<p>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u's', 1, u'-s')	Ncmpn	Sommi	=	1-6
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	8-9
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmbr3p	Ggvstm	=	11-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpfpa	Ppnzmt	=	21-27
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfpa	Sozmt	=	29-33
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	34-34
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u't', 3, u'-p')	Agpmsg	Ppnmer	=	36-50
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'er-s')	Ncmsg	Somer	=	52-58
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-u')	Z	U	=	59-61
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xh	Nh	=	63-66
+TOKEN	(0, u'', 0, u'')	(7, u'', 11, u'-n')	Xw	Nw	=	68-89
+</s>
+</p>
+</text>
+<text id="tid.392693329433198592" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="16:46:00" std_tech="T2" std_ling="L3" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	14-15
+TOKEN	(1, u'n', 2, u'')	(1, u'n', 2, u'-l')	Q	L	NST	17-20
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	21-21
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	23-25
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	26-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pd-msn	Zk-mei	=	28-30
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-p')	Agpmsnn	Ppnmein	=	32-38
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	40-44
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'eti-g')	Vmpr3s-n	Ggnste-n	=	46-48
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	49-49
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	=	51-52
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	=	54-59
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	61-62
+</s>
+</p>
+</text>
+<text id="tid.392685189908148224" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="16:13:39" std_tech="T1" std_ling="L1" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'v', 0, u'-r')	Rgp	Rsn	=	14-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-p')	Appfsn	Pdnzei	=	21-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	28-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsan	Sometn	=	31-37
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	38-38
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'd', 0, u'-v')	Cs	Vd	=	40-41
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r3s-y	Gp-ste-d	=	43-44
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	46-46
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'en-z')	Pq-nsl	Zv-sem	=	48-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'o-s')	Ncnsl	Sosem	=	56-64
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'z-d')	Si	Do	=	66-66
+TOKEN	(4, u'preds', 0, u'')	(4, u'preds', 2, u'-s')	Ncmsi	Someo	NST	68-78
+<name type="org">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npfsg	Slzer	=	80-81
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	82-82
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	84-85
+</s>
+</p>
+</text>
+<text id="tid.392672650382028800" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="15:23:50" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-10
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-l')	Q	L	=	12-13
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	14-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	16-18
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	19-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'i-n')	Xf	Nj	=	21-21
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	=	23-26
+TOKEN	(1, u'M', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	CAP	28-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	=	31-34
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	36-37
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	39-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	45-52
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	54-64
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	66-73
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392672431749742592" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="15:22:57" std_tech="T2" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'p', 0, u'-r')	Rgc	Rsr	=	10-13
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	15-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	19-22
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Px------y	Zp------k	=	24-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'iti-g')	Va-f3s-n	Gp-pte-n	=	27-28
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pq-msn	Zv-mei	=	30-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	34-42
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	43-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sg	Dr	=	45-48
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncfpg	Sozmr	=	50-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	56-57
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	59-66
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	68-78
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	80-84
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392664716688236544" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="14:52:18" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u's', 0, u'-v')	Cc	Vp	=	10-12
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-z')	Pd-nsn	Zk-sei	=	14-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	17-18
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Va-p-sf	Gp-d-ez	=	20-23
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	25-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'o-s')	Ncnsl	Sosem	=	27-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncfsn	Sozei	=	34-39
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	41-46
+TOKEN	(0, u'', 0, u'')	(1, u'k', 1, u'a-s')	Ncfsg	Sozer	=	48-55
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	57-64
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	66-68
+TOKEN	(0, u'', 0, u'')	(1, u'i', 0, u'-v')	Cc	Vp	=	70-71
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'biti-g')	Va-r1p-n	Gp-spm-n	=	73-75
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	77-78
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ek-s')	Ncmsl	Somem	=	80-86
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	87-87
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	89-99
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	101-105
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392664349565022208" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="14:50:50" std_tech="T2" std_ling="L2" sentiment="negative">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-10
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'k', 0, u'-v')	Cs	Vd	=	12-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'biti-g')	Va-r1s-n	Gp-spe-n	=	16-18
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	20-24
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	26-27
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmep-sf	Ggdd-ez	=	29-35
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	36-36
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncmsg	Somer	=	38-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	45-46
+<name type="org">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsan	Slmetn	=	48-51
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	53-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Vmpr3s	Ggnste	=	56-61
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	62-62
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncfsg	Sozer	=	64-75
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	77-78
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	80-81
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Va-c	Gp-g	=	83-84
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pz-msn	Zl-mei	=	86-90
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	92-98
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	100-101
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	103-107
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	109-116
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	118-128
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	130-137
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392655129973121024" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="14:14:12" std_tech="T2" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r3s-y	Gp-ste-d	=	10-11
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	13-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sg	Dr	=	19-20
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpfsg	Ppnzer	=	22-28
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	30-31
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	34-41
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	43-53
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	55-59
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392654894135799808" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="14:13:16" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-10
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-l')	Q	L	=	12-13
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	14-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pd-fsn	Zk-zei	=	16-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	19-20
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Va-p-sf	Gp-d-ez	=	22-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Si	Do	=	27-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-s')	Ncmsi	Someo	=	31-35
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	36-36
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	38-39
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	41-45
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	47-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	56-66
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	68-75
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392643642386825216" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="13:28:33" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	10-11
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Va-p-sm	Gp-d-em	=	13-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpfsg	Ppnzer	=	17-23
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsg	Sozer	=	25-29
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	30-30
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	32-34
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	36-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	45-55
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	57-61
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392632234727194624" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:43:14" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'\u0161', 0, u'-s')	Ncfsn	Sozei	=	10-14
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	15-15
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	17-21
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	23-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	35-42
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392631862105227264" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:41:45" std_tech="T1" std_ling="L2" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'h', 0, u'-s')	Ncfsn	Sozei	=	10-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'-s')	Ncmpd	Sommd	=	16-26
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	27-27
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	29-32
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	33-33
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u't', 0, u'-z')	Pp2-sn	Zod-ei	=	35-36
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r2s-n	Gp-sde-n	=	38-39
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmep-sf	Ggdd-ez	=	41-50
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	52-53
+</s>
+</p>
+</text>
+<text id="tid.392631301922361344" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:39:31" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-5
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	7-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	16-26
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'm', 0, u'-l')	Q	L	=	28-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Va-c	Gp-g	=	34-35
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmpp-pm	Ggnd-mm	=	37-42
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	44-44
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	46-53
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	54-54
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xh	Nh	=	56-69
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	71-71
+<g/>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	72-79
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-p')	Appmsnn	Pdnmein	=	81-86
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	87-87
+</s>
+</p>
+</text>
+<text id="tid.392630994077233152" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:38:18" std_tech="T2" std_ling="L2" sentiment="negative">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-5
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'k', 0, u'-s')	Ncfsn	Sozei	=	7-13
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	14-14
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'k', 0, u'-v')	Cs	Vd	=	16-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	19-20
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	22-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	28-31
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	32-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'eti-g')	Vmpr1p-n	Ggnspm-n	=	34-38
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'e-s')	Ncnpa	Sosmt	=	40-44
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	45-45
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	47-48
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	50-51
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	53-57
+TOKEN	(0, u'', 0, u'i')	(0, u'', 0, u'i-g')	Vmpn	Ggnn	NST	59-68
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	70-71
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncnsa	Soset	=	73-78
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	79-79
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	81-82
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmpr1p	Ggnspm	=	84-90
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsan	Sometn	=	92-94
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	96-98
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfpa	Sozmt	=	100-103
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	104-104
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	106-113
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	115-125
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	127-134
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392630250896908288" type="tweet" lang="slv" favorited="0" retweeted="1" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:35:21" std_tech="T2" std_ling="L2" sentiment="positive">
+<p>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'k', 0, u'-z')	Pr-msn	Zz-mei	=	1-4
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Px------y	Zp------k	=	6-7
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Vmpr3s	Ggnste	=	9-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'z-d')	Si	Do	=	16-16
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	18-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-p')	Agpnsl	Ppnsem	=	21-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	27-31
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpfsa	Ppnzet	=	33-40
+TOKEN	(1, u'k', 2, u'ico')	(1, u'k', 2, u'ica-s')	Ncfsa	Sozet	NST	42-49
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	51-51
+<g/>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	52-59
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	61-61
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	62-62
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Vmer3s	Ggdste	=	64-67
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-p')	Agpmpa	Ppnmmt	=	69-72
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-s')	Ncmpa	Sommt	=	74-83
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	84-84
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'h', 0, u'-s')	Ncfsn	Sozei	=	86-90
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-u')	Z	U	=	91-92
+</s>
+</p>
+</text>
+<text id="tid.392629512888143872" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:32:25" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	9-9
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	11-12
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'i-z')	Pp2-sa--y	Zod-et--k	=	14-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	17-22
+TOKEN	(0, u'', 0, u'')	(0, u'', 4, u'vati-g')	Vmer1s	Ggdspe	=	24-30
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	32-32
+<g/>
+TOKEN	(0, u'', 1, u'am')	(0, u'', 1, u'am-r')	Rgp	Rsn	NST	33-34
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(1, u'u', 0, u'-o')	Y	O	=	36-37
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	38-41
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	42-42
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	43-43
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	45-52
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	54-55
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	57-58
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	60-66
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sl	Dm	=	68-68
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-s')	Npmsl	Slmem	=	70-78
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	80-81
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpfsl	Ppnzem	=	83-89
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsl	Sozem	=	91-95
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	96-96
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'i', 0, u'-v')	Cc	Vp	=	98-99
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	100-100
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	102-112
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	114-118
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392628971768393728" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:30:16" std_tech="T2" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-11
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	13-17
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	18-18
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Ps1msns	Zspmeie	=	20-22
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	24-30
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'eti-g')	Vmpr3s-n	Ggnste-n	=	32-34
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	36-41
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsg	Sozer	=	43-46
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Si	Do	=	48-48
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-z')	Ps1msis	Zspmeoe	=	50-54
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'en-p')	Agpnsi	Ppnseo	=	56-63
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncnsi	Soseo	=	65-70
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	72-74
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'eti-g')	Vmpr3s-n	Ggnste-n	=	76-78
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-z')	Ps1nsns	Zspseie	=	80-83
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'en-p')	Agpnsn	Ppnsei	=	85-91
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncnsn	Sosei	=	93-97
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Si	Do	=	99-99
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-z')	Ps1msis	Zspmeoe	=	101-105
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'ek-s')	Ncmsi	Someo	=	107-114
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	115-115
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	117-124
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	126-133
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	135-139
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392628175853076480" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="12:27:06" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-5
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'o', 0, u'-r')	Rgp	Rsn	=	7-8
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	9-9
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'ti-g')	Vmem1p	Ggdvpm	=	11-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	17-20
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-z')	Pd-nsa	Zk-set	=	22-23
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-g')	Vmen	Ggdn	=	25-34
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	35-35
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'n', 0, u'-z')	Pz-msn	Zl-mei	=	37-41
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'jaz-z')	Pp1-sa--y	Zop-et--k	=	43-44
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r3s-y	Gp-ste-d	=	46-47
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	49-55
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	56-56
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	58-59
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgs	Rss	=	61-67
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	69-70
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	72-76
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	77-77
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'j', 0, u'-r')	Rgp	Rsn	=	79-83
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	84-84
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	86-87
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	89-96
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	98-108
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	110-117
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392607580885094400" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="11:05:16" std_tech="T2" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'r', 4, u'\u010di-g')	Vmem1p	Ggdvpm	=	10-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	17-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsan	Sometn	=	19-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	27-28
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	30-37
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	39-50
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	52-56
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392607284037419008" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="11:04:05" std_tech="T1" std_ling="L1" sentiment="negative">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u't', 0, u'-r')	Rgp	Rsn	=	14-18
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	19-19
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	21-28
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'd', 0, u'-v')	Cs	Vd	=	30-31
+TOKEN	(0, u'', 0, u'')	(1, u'b', 2, u'ti-g')	Va-r2s-y	Gp-sde-d	=	33-36
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	38-38
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	40-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	45-50
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'i-p')	Agpfpa	Ppnzmt	=	52-56
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfpa	Sozmt	=	58-62
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	64-65
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ec-s')	Ncmpa	Sommt	=	67-71
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-u')	Z	U	=	72-73
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	75-82
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	84-95
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392606927550951424" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="11:02:40" std_tech="T1" std_ling="L1" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r3s-y	Gp-ste-d	=	10-11
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	13-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pq-nsa	Zv-set	=	16-18
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	19-19
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	21-26
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	27-27
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'z-d')	Si	Do	=	29-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-s')	Ncnsi	Soseo	=	31-38
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	39-39
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'v', 0, u'-r')	Rgp	Rsn	=	41-46
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	48-49
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	51-55
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-g')	Vmen	Ggdn	=	57-64
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	66-70
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	71-71
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cc	Vp	=	73-75
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'deti-g')	Vmpr2s	Ggnsde	=	77-79
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	81-82
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	84-91
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	93-104
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	106-110
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392598046456184832" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="10:27:23" std_tech="T2" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'k', 0, u'-s')	Ncmsn	Somei	=	10-15
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	16-16
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'biti-g')	Va-r1s-n	Gp-spe-n	=	18-20
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	22-23
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	25-30
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmep-sf	Ggdd-ez	=	32-39
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	40-40
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	42-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3p-n	Gp-stm-n	=	45-46
+TOKEN	(0, u'', 0, u'')	(1, u'k', 1, u'a-s')	Ncfpn	Sozmi	=	48-55
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	57-64
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'-k')	Mlpmsa	Kbzmet	=	66-83
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	84-84
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	86-87
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'teti-g')	Vmpr3s-n	Ggnste-n	=	89-92
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-g')	Va-n	Gp-n	=	94-97
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	99-105
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	107-108
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	110-117
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	119-130
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	132-136
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392579565039927297" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="09:13:56" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Npmsn	Slmei	=	14-25
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	26-26
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(1, u'd', 0, u'-v')	Cs	Vd	=	28-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Px------y	Zp------k	=	35-36
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'i-g')	Vmpr2p	Ggnsdm	=	38-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	45-53
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-g')	Vmpn	Ggnn	=	55-64
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	65-65
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	67-68
+TOKEN	(0, u'', 0, u'')	(0, u'', 4, u'ti-g')	Vmer2p	Ggdsdm	=	70-76
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	78-78
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncfsa	Sozet	=	80-85
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	86-86
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'on-z')	Pp3fsg--y	Zotzer--k	=	88-89
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'ti-g')	Va-r3s-y	Gp-ste-d	=	91-92
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	93-93
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xf	Nj	=	95-101
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	103-105
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	107-118
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	120-127
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392579238693715968" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="09:12:38" std_tech="T2" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ta-z')	Pd-nsa	Zk-set	=	14-15
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmpr1s	Ggnspe	=	17-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-s')	Ncmsd	Somed	=	27-32
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sg	Dr	=	34-35
+TOKEN	(0, u'', 0, u'')	(0, u'', 4, u'en-p')	Agpmsg	Ppnmer	=	37-43
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-s')	Ncmsg	Somer	=	45-52
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	54-55
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	57-68
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	70-84
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	86-93
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392577191957250048" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="09:04:30" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'b', 0, u'-l')	Q	L	=	14-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'ti-g')	Vmpr3s	Ggnste	=	19-25
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	27-30
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncfsn	Sozei	=	32-44
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	45-45
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncfsn	Sozei	=	47-58
+TOKEN	(0, u'', 0, u'')	(0, u'', 4, u'en-p')	Agpmsg	Ppnmer	=	60-66
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'-s')	Ncmsg	Somer	=	68-75
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	77-78
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	80-91
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	93-107
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	109-116
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392576994711703552" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="09:03:43" std_tech="T1" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 3, u'biti-g')	Va-f2s-n	Gp-pde-n	=	14-16
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmpp-sf	Ggnd-ez	=	18-22
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	23-23
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-v')	Cs	Vd	=	25-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'iti-g')	Va-f3s-n	Gp-pte-n	=	28-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-z')	Pq-nsa	Zv-set	=	31-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-d')	Sa	Dt	=	35-36
+TOKEN	(0, u'', 0, u'i')	(0, u'', 0, u'i-g')	Vmen	Ggdn	NST	38-44
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	46-47
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	49-56
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	58-69
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392570719777087488" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="08:38:47" std_tech="T1" std_ling="L1" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'o-m')	I	M	=	10-10
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	11-11
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncfsn	Sozei	=	13-17
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	18-18
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsn	Somei	=	20-25
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	26-26
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	28-39
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	41-52
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392568524478357504" type="tweet" lang="slv" favorited="1" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="08:30:04" std_tech="T2" std_ling="L1" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'a-r')	Rgp	Rsn	=	14-14
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'biti-g')	Va-r3s-n	Gp-ste-n	=	16-17
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	19-24
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	26-29
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'ti-g')	Vmep-sm	Ggdd-em	=	31-37
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	39-39
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-r')	Rgp	Rsn	=	41-45
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-s')	Ncmsan	Sometn	=	47-52
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-u')	Z	U	=	53-54
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	56-57
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	59-70
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	72-86
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	88-95
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392568341338288128" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="08:29:20" std_tech="T2" std_ling="L1" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+TOKEN	(0, u'', 2, u'CK')	(0, u'', 2, u'CK-s')	Npmsn	Slmei	CAP	10-12
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	13-13
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	15-26
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	28-39
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392568262300794880" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="08:29:01" std_tech="T1" std_ling="L2" sentiment="neutral">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-8
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'g', 2, u'en-p')	Agpmpn	Ppnmmi	=	10-15
+<name type="per">
+TOKEN	(1, u'H', 0, u'')	(1, u'H', 1, u'a-s')	Npmpn	Slmmi	CAP	17-22
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	23-23
+</s>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	25-36
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	38-49
+</name>
+</s>
+</p>
+</text>
+<text id="tid.392567508601171968" type="tweet" lang="slv" favorited="0" retweeted="0" user="007_delic" source="private" sex="female" year="2013" month="2013-10" date="2013-10-22" time="08:26:02" std_tech="T1" std_ling="L3" sentiment="positive">
+<p>
+<s>
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	1-12
+</name>
+TOKEN	(0, u'', 0, u'')	(1, u'j', 0, u'-l')	Q	L	=	14-15
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	16-16
+<name type="loc">
+TOKEN	(1, u'S', 0, u'')	(1, u'S', 0, u'-s')	Npfsn	Slzei	CAP	18-20
+<g/>
+</name>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	21-21
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'me-z')	Pp3msa--b	Zotmet--z	=	23-26
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-u')	Z	U	=	27-27
+</s>
+<s>
+TOKEN	(1, u'v', 2, u'jda')	(1, u'v', 2, u'jda-l')	Q	L	NST	29-33
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-l')	Q	L	=	35-36
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'iti-g')	Va-f1s-n	Gp-ppe-n	=	38-40
+TOKEN	(0, u'', 0, u'i')	(0, u'', 2, u'i-z')	Pp2-sd	Zod-ed	NST	42-44
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ek-s')	Ncmpa	Sommt	=	46-50
+TOKEN	(0, u'', 0, u'')	(0, u'', 2, u'ti-g')	Vmpp-sf	Ggnd-ez	=	52-60
+<g/>
+TOKEN	(0, u'', 0, u'')	(0, u'', 1, u'-u')	Z	U	=	61-62
+</s>
+<s>
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xe	Ne	=	64-65
+<name type="per">
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	67-74
+TOKEN	(0, u'', 0, u'')	(0, u'', 0, u'-n')	Xa	Na	=	76-87
+</name>
+</s>
+</p>
+</text>
